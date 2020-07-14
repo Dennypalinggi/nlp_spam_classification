@@ -1,2 +1,2 @@
 # nlp_spam_classification
-Using NLP technique to distinguish spam or not
+Using NLP technique and neural networks to distinguish spam or not
